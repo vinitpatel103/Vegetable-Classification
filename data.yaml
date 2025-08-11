@@ -1,0 +1,19 @@
+path: "C:/freelancer/comapny files/vinit/data"  # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: test/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: inorganic carrot
+  1: inorganic cucumber
+  2: inorganic ladyfinger
+  3: inorganic potato
+  4: inorganic sweet potato
+  5: organic carrot
+  6: organic cucumber
+  7: organic ladyfinger
+  8: organic potato
+  9: organic sweet potato
+
+# number of classes
+nc: 10
