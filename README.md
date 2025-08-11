@@ -1,0 +1,1 @@
+a powerful deep learning system based on YOLOv11 that effectively classifies vegetables as either organic or inorganic.5 categories are taken. potato , sweet potato , cucumber , carrot , lady finger. Multiclass detection is done.
